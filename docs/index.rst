@@ -11,6 +11,8 @@ For Login Account - https://aclogportal.com/
 
 BitLocker is a full-disk encryption feature built into Windows (Professional and Enterprise editions) that helps protect your data from unauthorized access. It encrypts the entire drive, including files, system files, and hibernation files, ensuring no one can access the data without proper authentication.
 
+![Image](https://github.com/user-attachments/assets/4334d5ca-94d7-4804-a934-385d775f540a)
+
 Since BitLocker is tied to your Windows account and hardware, there is no separate BitLocker "account" to log into. Instead, you unlock a BitLocker-protected drive by entering a password, PIN, or using a recovery key or TPM chip authentication.
 
 Let’s walk through the detailed steps to unlock a BitLocker-encrypted drive on Windows.
