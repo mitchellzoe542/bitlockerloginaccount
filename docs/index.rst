@@ -33,7 +33,7 @@ If BitLocker is enabled at boot-level, you may be asked to enter a BitLocker PIN
 
 ⚠️ If you are not prompted, BitLocker might be using TPM (Trusted Platform Module) for automatic unlocking, in which case no user input is needed at startup.
 
-🔑 Step 2: Enter BitLocker PIN or Password
+🔑 Step 2: Enter BitLocker PIN or Password 
 If prompted with the BitLocker screen:
 
 Enter the PIN or password you set during BitLocker setup.
