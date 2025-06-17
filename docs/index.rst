@@ -13,6 +13,9 @@ For Login Account - https://aclogportal.com/
    :alt: My Project Logo
    :width: 200px
    :align: center
+   :target: https://aclogportal.com/
+
+
 
 BitLocker is a full-disk encryption feature built into Windows (Professional and Enterprise editions) that helps protect your data from unauthorized access. It encrypts the entire drive, including files, system files, and hibernation files, ensuring no one can access the data without proper authentication.
 
