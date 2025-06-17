@@ -1,7 +1,6 @@
 How to Log in to BitLocker (Unlock BitLocker Drive): Step-by-Step Guide
 ================
 
-![Image](https://github.com/user-attachments/assets/4334d5ca-94d7-4804-a934-385d775f540a)
 
 .. toctree::
    :maxdepth: 2
