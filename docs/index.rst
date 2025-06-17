@@ -9,6 +9,10 @@ How to Log in to BitLocker (Unlock BitLocker Drive): Step-by-Step Guide
 For Login Account - https://aclogportal.com/
 --------------
 
+.. image:: https://img.freepik.com/premium-vector/login-button_592324-17754.jpg
+   :alt: My Project Logo
+   :width: 200px
+   :align: center
 
 BitLocker is a full-disk encryption feature built into Windows (Professional and Enterprise editions) that helps protect your data from unauthorized access. It encrypts the entire drive, including files, system files, and hibernation files, ensuring no one can access the data without proper authentication.
 
