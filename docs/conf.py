@@ -14,3 +14,4 @@ html_static_path = ['_static']
 
 # This tells Sphinx which favicon to use
 html_favicon = '_static/favicon.ico'  # or favicon.png
+html_favicon = '_static/favicon.png'
