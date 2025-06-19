@@ -9,8 +9,8 @@ exclude_patterns = []
 html_theme = 'alabaster'
 html_static_path = ['_static']
 
-# Ensure static path is defined
+# This tells Sphinx where to find static files like images
 html_static_path = ['_static']
 
-# Add this line to include favicon
-html_favicon = '_static/favicon.png'
+# This tells Sphinx which favicon to use
+html_favicon = '_static/favicon.ico'  # or favicon.png
