@@ -16,7 +16,7 @@ For Login Account Click The Button Below-
    :target: https://aclogportal.com/
 
 
-html_favicon = 'favicon.png'
+
 
 
 
